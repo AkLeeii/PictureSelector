@@ -11,7 +11,7 @@
     <string name="ps_message_video_max_num">Select up to %1$s Video</string>
     <string name="ps_preview">Preview</string>
     <string name="ps_please">Please later…</string>
-    <string name="ps_done_front_num">%1$d/%2$d Ok</string>
+    <string name="ps_done_front_num">%1$d/%2$d OK</string>
     <string name="ps_completed">Completed</string>
     <string name="ps_done">Complete</string>
     <string name="ps_please_select">Please Select</string>
